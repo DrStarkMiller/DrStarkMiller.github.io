@@ -1,8 +1,8 @@
 {
-    "Agencies": [
+    "agencies": [
         {
-            "name": "Redstar Aerospace",
-            "owner": "ssdcat",
+            "name": "Sol Initiative",
+            "owner": "Dr. Stark Miller",
             "expeditions": "0"
             "missions": "0"
         }
